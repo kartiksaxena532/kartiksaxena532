@@ -15,14 +15,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kartiksaxena532&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ MY Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kartiksaxena532&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://api.memegen.link/images/buzz/memes/memes_everywhere.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kartiksaxena532&icon=0&color=1)](https://visitcount.itsvg.in)
