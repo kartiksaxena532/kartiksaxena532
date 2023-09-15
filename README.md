@@ -1,5 +1,5 @@
 # 💫 About Me:
-♠️♥️♦️♣️"A jack of all trades is a master of none, but oftentimes he is better than a master of one.”<br>🥞Front End Developer<br>📱Working with new technologies<br>🙌Next.JS React-Native Three.Js<br>🌑Currently working on some AI projects in webdev<br>👍Feel free to reach out on LinkedIn
+"A Jack Of All Trades Is A Master Of None, But Often Times Is Better Than A Master Of One.”♠️♥️♦️♣️<br>🥞Front End Developer<br>📱Working with new technologies<br>🙌Next.JS React-Native Three.Js<br>🌑Currently working on some AI projects in webdev<br>👍Feel free to reach out on LinkedIn
 
 
 ## 🌐 Socials:
