@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=kartiksaxena532&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="[](https://api.memegen.link/images/pigeon/Engineer/_/Is_this_Photoshop~q.png?style=https://i.imgur.com/W0NXFpQ.png)" width="512px"/>
+<img src="(https://api.memegen.link/images/pigeon/Engineer/_/Is_this_Photoshop~q.png?style=https://i.imgur.com/W0NXFpQ.png)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg .in/api?id=kartiksaxena532&icon=0&color=1)](https://visitcount.itsvg.in)
