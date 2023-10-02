@@ -1,4 +1,5 @@
 # 💫 About Me:
+Visit My Technical Portfolio : <a href="https://651aaab70f1af50837c2f877--cheery-medovik-3697fa.netlify.app">💻</a>
 "A Jack Of All Trades Is A Master Of None, But Often Times Is Better Than A Master Of One.”♠️♥️♦️♣️<br>🥞Front End Developer<br>📱Working With New Technologies(Probably Every Day 🙆)<br>🙌Next.JS React-Native Three.Js And Many More<br>🌑Currently working on some AI projects with Dev<br>👍Feel free to reach out on LinkedIn<br>Remember: Everything at start would be wrong, the first program, the first app, don't give up.
 
 
