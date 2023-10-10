@@ -1,7 +1,7 @@
 # 💫 About Me:
 Visit My Technical Portfolio : <a href="https://kartikdev.netlify.app/" target="_blank">💻</a><br>
 Visit My Design Portfolio : <a href="https://kartikdesign.netlify.app/" target="_blank">🎨🖌️</a><br>
-"A Jack Of All Trades Is A Master Of None, But Often Times Is Better Than A Master Of One.”♠️♥️♦️♣️<br>🥞Front End Developer<br>📱Working With New Technologies(Probably Every Day 🙆)<br>🙌Next.JS React-Native Three.Js And Many More<br>🌑Currently working on some AI projects with Dev<br>👍Feel free to reach out on LinkedIn<br>Remember: Everything at start would be wrong, the first program, the first app, don't give up.
+"A Jack Of All Trades Is A Master Of None, But Often Times Is Better Than A Master Of One.”♠️♥️♦️♣️<br>🥞Front End Developer<br>📱Working With New Technologies(Probably Every Day 🙆)<br>🙌Next.JS React-Native Three.Js And Many More<br>🌑Currently working on some AI projects with Dev<br>👍Feel free to reach out on LinkedIn.
 works
 
 ## 🌐 Socials:
