@@ -25,7 +25,7 @@ Visit My Design Portfolio : <a href="https://kartikdesign.netlify.app/" target="
 ### 😂 My Dev Meme
 <img src="https://api.memegen.link/images/pigeon/Engineer/_/Is_this_Photoshop~q.png?style=https://i.imgur.com/W0NXFpQ.png" width="512px"/>
 
-![](https://komarev.com/ghpvc/?kartiksaxena532)
+![VisitorCount](https://profile-counter.glitch.me/kartiksaxena532/count.svg)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kartiksaxena) 
