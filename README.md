@@ -2,7 +2,7 @@
 Visit My Technical Portfolio : <a href="https://kartikdev.netlify.app/" target="_blank" style="color:blue">Link💻</a><br>
 Visit My Design Portfolio : <a href="https://kartikdesign.netlify.app/" target="_blank" style="color:blue">Link😎</a><br>
 "A Jack Of All Trades Is A Master Of None, But Often Times Is Better Than A Master Of One.”♠️♥️♦️♣️<br>🥞Full Stack Developer<br>📱Working With New Technologies(Probably Every Day 🙆)<br>🙌Next.JS React-Native Three.Js And Many More<br>🌑Currently working on some AI projects with Dev<br>👍Feel free to reach out on LinkedIn.
-ok
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartik._532) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-saxena-2a823222b) 
 # 💻 Tech Stack:
