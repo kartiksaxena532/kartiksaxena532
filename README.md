@@ -12,11 +12,6 @@ Visit My Design Portfolio : <a href="https://kartikdesign.netlify.app/" target="
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kartiksaxena532&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Favourite Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kartiksaxena532&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 My Dev Meme
 <img src="https://api.memegen.link/images/pigeon/Engineer/_/Is_this_Photoshop~q.png?style=https://i.imgur.com/W0NXFpQ.png" width="512px"/>
