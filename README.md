@@ -3,7 +3,12 @@ Visit My Developer Portfolio : <a href="https://kartikdev.netlify.app/" target="
 Visit My Design Portfolio : <a href="https://kartikdesign.netlify.app/" target="_blank" style="color:blue">Link😎</a><br>
 Visit MayKreate Portfolio : <a href="https://maykreate.vercel.app/" target="_blank" style="color:blue">Link😎</a><br>
 Visit My 3D Portfolio : <a href="https://kartik-folio.vercel.app/" target="_blank" style="color:blue">Link😎</a><br>
-some cool hosted webisites also : https://batmanvsjoker.vercel.app , https://cubik-in.vercel.app .
+Some cool hosted webisites also : https://batmanvsjoker.vercel.app , https://cubik-in.vercel.app .
+
+Wanna See Some Apps -->  <a href="https://drive.google.com/file/d/1kLy8JWsZahgwi9pk04_plRFcs5Abjzdm/view?usp=sharing" target="_blank" style="color:blue">Edstudeint</a><br>
+<a href="https://drive.google.com/file/d/13jESkGg8OmpE296hz3ppIgACJVFOk0-e/view?usp=drive_link)" target="_blank" style="color:blue">ZooperCart</a><br>
+<a href="https://www.youtube.com/watch?v=0VaS0zBiVt4&ab_channel=Lakshya" target="_blank" style="color:blue">EasyTour</a><br>
+
 
 "A Jack Of All Trades Is A Master Of None, But Often Times Is Better Than A Master Of One.”♠️<br>
 
